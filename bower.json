@@ -1,0 +1,24 @@
+{
+  "name": "data-plx.js",
+  "authors": [
+    "maqboolurrahim <maqboolurrahim@gmail.com>"
+  ],
+  "description": "Dataplx is a JQUERY plugin which let you show or hide content with some nice effects without writting any JavaScript!!",
+  "main": "dataplx.min.js",
+  "keywords": [
+    "plugin",
+    "jquery"
+  ],
+  "dependencies": {
+      "jquery": "^2.2.3"
+    },
+  "license": "MIT",
+  "homepage": "https://github.com/maqboolkhan/dataplx.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

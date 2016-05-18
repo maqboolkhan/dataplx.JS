@@ -2,7 +2,8 @@ Dataplx.JS
 ======
 
 Dataplx is a JQUERY plugin which let you show or hide content with some nice effects without writting any JavaScript!!
-Its a bare bones plugin without any `css` styling and its intended to use with message boxes! let starts how to use it..
+Its a bare bones plugin without any `css` styling so its just provides funcationality and leave design to you.
+Dataplx.js intended to use with message boxes! let starts how to use it..
 
 
 #Installing
@@ -14,6 +15,11 @@ Add `dataplx.min.js` in your `head` section
 ```
 now you can start using `dataplx` :)
 
+or you can install via **Bower** 
+
+```
+bower install dataplx.js
+```
 
 ##Spices:
 
