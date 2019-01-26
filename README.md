@@ -6,7 +6,7 @@ Its a bare bones plugin without any `css` styling so its just provides funcation
 Dataplx.js intended to use with message boxes! let starts how to use it..
 
 
-#Installing
+# Installing
 
 Add `dataplx.min.js` in your `head` section
 
@@ -21,7 +21,7 @@ or you can install via **Bower**
 bower install dataplx.js
 ```
 
-##Spices:
+## Spices:
 
 `dataplx` comes with two basic operations
 
@@ -35,9 +35,9 @@ bower install dataplx.js
 1. Fade
 2. Shrink
 
-##How to:
+## How to:
 
-###Close:
+### Close:
 
 ```html
 	<div>
@@ -49,7 +49,7 @@ bower install dataplx.js
 now if you click on `span` it will remove `div` (Parent element)!!
 You can add `data-plx-close` to any element and when `click` will trigger on it `dataplx.JS` will remove its parent element.. Simple Enough
 
-####Specifying Action:
+#### Specifying Action:
 
 So you dont want to remove parent element ? You can specify which element to remove just set value of `data-plx-close` as
 
@@ -63,7 +63,7 @@ So you dont want to remove parent element ? You can specify which element to rem
 
 remember `data-plx-close` accept `selector` as it value and selects a first element if there would more than one element match for given selector!!
 
-####With Animation:
+#### With Animation:
 
 Example 1:
 
@@ -111,7 +111,7 @@ With fade animation with timing:
 
 `Remember` time will be pass in `milliseconds`!!
 
-###Toggle:
+### Toggle:
 
 `Toggle` is same as `Close` but it do not remove element while it hides element if visible or show element if hide!
 
